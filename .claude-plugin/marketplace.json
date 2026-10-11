@@ -1,0 +1,28 @@
+{
+  "name": "skillz",
+  "owner": {
+    "name": "0xcipherdaemon"
+  },
+  "plugins": [
+    {
+      "name": "ui-design",
+      "source": "./plugins/ui-design",
+      "description": "Website UI/UX design, styling, taste and design-review skills"
+    },
+    {
+      "name": "animation",
+      "source": "./plugins/animation",
+      "description": "Motion for websites: GSAP, Framer Motion, view transitions and animation audits"
+    },
+    {
+      "name": "dev",
+      "source": "./plugins/dev",
+      "description": "Dev skills: graphify, Swift, writing guidelines"
+    },
+    {
+      "name": "vercel",
+      "source": "./plugins/vercel",
+      "description": "Vercel and React skills: deploys, performance, composition patterns"
+    }
+  ]
+}
